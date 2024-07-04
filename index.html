@@ -41,14 +41,27 @@
 
             <div id="textarea-output-container" class="textarea__output">
                 <textarea class="container__output__textarea"></textarea>
-                <button onclick="copyToClipboard()" class="container__output__button">Copiar</button>
+                <button onclick="copyToClipboard()" class="container__output__button">
+                    <img class="img__copy" src="./assets/copiar.png" alt="icono de copiar texto"> 
+                    <img class="img__copied" src="./assets/verificacion.png" alt="icono de copiar texto"> 
+                    <span class="text__button">Copiar texto</span>
+                </button>
             </div>
             
         </section>
     </main>
     <footer class="footer">
-
+                <p class="footer__text">Desarrollado por Alfonso Manuel Vidrio Lizaola</p>
+                <nav class="nav">
+                    <a target="_blank" href="https://www.linkedin.com/in/alfonsomanuelvidriolizaola/" class="nav__link">
+                        <img class="nav__link__icon" src="./assets/linkedin.png" alt="icono LinkedIn">
+                    </a>
+                    <a target="_blank" href="https://github.com/AlfonsoVidrio" class="nav__link">
+                        <img class="nav__link__icon" src="./assets/github.png" alt="icono Github">
+                    </a>
+                </nav>
     </footer>
+    
     <script src="app.js"></script>
 </body>
 
