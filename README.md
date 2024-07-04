@@ -50,7 +50,6 @@ El proyecto está estructurado de la siguiente manera:
 Desarrollado por Alfonso Manuel Vidrio Lizaola.
 
 - LinkedIn: [Alfonso Manuel Vidrio Lizaola](https://www.linkedin.com/in/alfonsomanuelvidriolizaola/)
-- GitHub: [AlfonsoVidrio](https://github.com/AlfonsoVidrio)
 
 ## Tecnologías Utilizadas
 
