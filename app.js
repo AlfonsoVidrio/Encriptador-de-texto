@@ -83,7 +83,7 @@ const copyToClipboard = () => {
                 showElement(buttonImgCopy);
             }, 2000);
         } catch (err) {
-            alert('Error al copiar: ', err);
+            console.err('Error al copiar: ', err);
         }
     }
     copyContent();
