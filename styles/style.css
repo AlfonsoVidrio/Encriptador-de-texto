@@ -179,6 +179,7 @@ body {
 
 .textarea__output {
     display:none;
+    padding: 1rem;
 }
 
 .footer{
@@ -234,7 +235,7 @@ body {
         border-radius: var(--radius-4);
         text-align: center;
         margin:0 auto 2rem auto;
-        width: 80%;
+        width: 95%;
         height: 100%;
     }
 
@@ -295,7 +296,7 @@ body {
         height: 25rem;
         width: 38vh;
         margin-top: 1rem;
-
+        font-size: var(--font-text);
     }
 
     .container__output__textarea::-webkit-scrollbar {
