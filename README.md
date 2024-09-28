@@ -2,6 +2,8 @@
 
 Este proyecto es un encriptador de texto simple desarrollado con HTML, CSS y JavaScript. Permite al usuario encriptar y desencriptar texto utilizando un conjunto específico de reglas de transformación de letras.
 
+<img src="screencapture.png" alt="Captura de Pantalla" width="650"/>
+
 ## Funcionalidades
 
 - **Encriptación**: Convierte letras según las siguientes reglas:
@@ -57,3 +59,5 @@ Desarrollado por Alfonso Manuel Vidrio Lizaola.
 - CSS
 - JavaScript
 
+## Insignia
+<img src="Prancheta 3.png" alt="Captura de Pantalla" width="350"/>
